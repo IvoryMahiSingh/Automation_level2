@@ -55,4 +55,4 @@ def generate_sdd_document():
     # Save the document
     document.save('Adhoc Check Solution Design Document2.docx')
 
-generate_sdd_document()
+generate_sdd()
